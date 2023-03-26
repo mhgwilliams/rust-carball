@@ -1,0 +1,111 @@
+{
+  "game": {
+    "id": "983D10864C06898E087BC7834DC5BF19",
+    "replay_version": 8,
+    "num_frames": 15431,
+    "replay_name": "2023-02-22.20.55 Hobotz Casual Doubles Loss",
+    "map_name": "NeoTokyo_Standard_P",
+    "date": "2023-02-22 20-55-56",
+    "match_type": "Online",
+    "team_0_score": 4,
+    "team_1_score": 3,
+    "goals": [
+      {
+        "frame": 803,
+        "player_name": "Unchi Sama",
+        "is_orange": false
+      },
+      {
+        "frame": 2177,
+        "player_name": "Hobotz",
+        "is_orange": true
+      },
+      {
+        "frame": 2986,
+        "player_name": "Hobotz",
+        "is_orange": true
+      },
+      {
+        "frame": 4720,
+        "player_name": "Unchi Sama",
+        "is_orange": false
+      },
+      {
+        "frame": 8425,
+        "player_name": "slickrick123123",
+        "is_orange": true
+      },
+      {
+        "frame": 9122,
+        "player_name": "BHuddy4",
+        "is_orange": false
+      },
+      {
+        "frame": 15345,
+        "player_name": "Unchi Sama",
+        "is_orange": false
+      }
+    ]
+  },
+  "teams": [
+    {
+      "score": 3,
+      "is_orange": true
+    },
+    {
+      "score": 4,
+      "is_orange": false
+    }
+  ],
+  "players": [
+    {
+      "unique_id": "9828945577051385482",
+      "name": "slickrick123123",
+      "online_id": "76561198346962405",
+      "online_id_kind": "Steam",
+      "is_orange": true,
+      "match_score": 658,
+      "match_goals": 1,
+      "match_assists": 1,
+      "match_saves": 3,
+      "match_shots": 4
+    },
+    {
+      "unique_id": "11289182748372087707",
+      "name": "BHuddy4",
+      "online_id": "2533274940231083",
+      "online_id_kind": "Xbox",
+      "is_orange": false,
+      "match_score": 448,
+      "match_goals": 1,
+      "match_assists": 1,
+      "match_saves": 0,
+      "match_shots": 5
+    },
+    {
+      "unique_id": "18143368599649100383",
+      "name": "Hobotz",
+      "online_id": "76561198010546857",
+      "online_id_kind": "Steam",
+      "is_orange": true,
+      "match_score": 715,
+      "match_goals": 2,
+      "match_assists": 1,
+      "match_saves": 2,
+      "match_shots": 3
+    },
+    {
+      "unique_id": "1023074917660937230",
+      "name": "Unchi Sama",
+      "online_id": "76561198077505940",
+      "online_id_kind": "Steam",
+      "is_orange": false,
+      "match_score": 754,
+      "match_goals": 3,
+      "match_assists": 0,
+      "match_saves": 1,
+      "match_shots": 8
+    }
+  ],
+  "demos": []
+}

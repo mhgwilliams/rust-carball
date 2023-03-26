@@ -1,0 +1,111 @@
+{
+  "game": {
+    "id": "4B85F20B46DB0E44CD72FD99AA96D82E",
+    "replay_version": 8,
+    "num_frames": 10745,
+    "replay_name": "2023-02-22.21.37 Hobotz Ranked Doubles Loss",
+    "map_name": "TrainStation_Night_P",
+    "date": "2023-02-22 21-37-58",
+    "match_type": "Online",
+    "team_0_score": 2,
+    "team_1_score": 5,
+    "goals": [
+      {
+        "frame": 825,
+        "player_name": "Zërôîs2g",
+        "is_orange": true
+      },
+      {
+        "frame": 1825,
+        "player_name": "Zërôîs2g",
+        "is_orange": true
+      },
+      {
+        "frame": 2994,
+        "player_name": "Hobotz",
+        "is_orange": false
+      },
+      {
+        "frame": 5030,
+        "player_name": "Zërôîs2g",
+        "is_orange": true
+      },
+      {
+        "frame": 5751,
+        "player_name": "slickrick123123",
+        "is_orange": false
+      },
+      {
+        "frame": 9718,
+        "player_name": "Zërôîs2g",
+        "is_orange": true
+      },
+      {
+        "frame": 10177,
+        "player_name": "Zërôîs2g",
+        "is_orange": true
+      }
+    ]
+  },
+  "teams": [
+    {
+      "score": 2,
+      "is_orange": false
+    },
+    {
+      "score": 5,
+      "is_orange": true
+    }
+  ],
+  "players": [
+    {
+      "unique_id": "9828945577051385482",
+      "name": "slickrick123123",
+      "online_id": "76561198346962405",
+      "online_id_kind": "Steam",
+      "is_orange": false,
+      "match_score": 315,
+      "match_goals": 1,
+      "match_assists": 0,
+      "match_saves": 2,
+      "match_shots": 2
+    },
+    {
+      "unique_id": "16677231613371711250",
+      "name": "Zërôîs2g",
+      "online_id": "5f2015f60c8645c58e04cf8ac10cb5f7",
+      "online_id_kind": "Epic",
+      "is_orange": true,
+      "match_score": 811,
+      "match_goals": 5,
+      "match_assists": 0,
+      "match_saves": 1,
+      "match_shots": 7
+    },
+    {
+      "unique_id": "18143368599649100383",
+      "name": "Hobotz",
+      "online_id": "76561198010546857",
+      "online_id_kind": "Steam",
+      "is_orange": false,
+      "match_score": 278,
+      "match_goals": 1,
+      "match_assists": 0,
+      "match_saves": 1,
+      "match_shots": 3
+    },
+    {
+      "unique_id": "9613951512713867554",
+      "name": "Kermit the toad.",
+      "online_id": "9d73f17a36f1494795198d49b36d2a60",
+      "online_id_kind": "Epic",
+      "is_orange": true,
+      "match_score": 451,
+      "match_goals": 0,
+      "match_assists": 3,
+      "match_saves": 1,
+      "match_shots": 2
+    }
+  ],
+  "demos": []
+}

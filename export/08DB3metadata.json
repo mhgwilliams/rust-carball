@@ -1,0 +1,111 @@
+{
+  "game": {
+    "id": "08DB32404DBB151DC25118AEE7230ABC",
+    "replay_version": 8,
+    "num_frames": 10803,
+    "replay_name": "2023-02-22.22.47 Hobotz Ranked Doubles Win",
+    "map_name": "outlaw_p",
+    "date": "2023-02-22 22-47-47",
+    "match_type": "Online",
+    "team_0_score": 4,
+    "team_1_score": 3,
+    "goals": [
+      {
+        "frame": 1996,
+        "player_name": "Hobotz",
+        "is_orange": false
+      },
+      {
+        "frame": 4007,
+        "player_name": "xASSASSINx",
+        "is_orange": true
+      },
+      {
+        "frame": 5665,
+        "player_name": "slickrick123123",
+        "is_orange": false
+      },
+      {
+        "frame": 6345,
+        "player_name": "Berro-B",
+        "is_orange": true
+      },
+      {
+        "frame": 6696,
+        "player_name": "xASSASSINx",
+        "is_orange": true
+      },
+      {
+        "frame": 8603,
+        "player_name": "Hobotz",
+        "is_orange": false
+      },
+      {
+        "frame": 9042,
+        "player_name": "Hobotz",
+        "is_orange": false
+      }
+    ]
+  },
+  "teams": [
+    {
+      "score": 3,
+      "is_orange": true
+    },
+    {
+      "score": 4,
+      "is_orange": false
+    }
+  ],
+  "players": [
+    {
+      "unique_id": "16004630782114746471",
+      "name": "Berro-B",
+      "online_id": "76561198079672522",
+      "online_id_kind": "Steam",
+      "is_orange": true,
+      "match_score": 388,
+      "match_goals": 1,
+      "match_assists": 2,
+      "match_saves": 0,
+      "match_shots": 6
+    },
+    {
+      "unique_id": "18143368599649100383",
+      "name": "Hobotz",
+      "online_id": "76561198010546857",
+      "online_id_kind": "Steam",
+      "is_orange": false,
+      "match_score": 813,
+      "match_goals": 3,
+      "match_assists": 0,
+      "match_saves": 4,
+      "match_shots": 4
+    },
+    {
+      "unique_id": "13909281282775135504",
+      "name": "xASSASSINx",
+      "online_id": "76561197986968716",
+      "online_id_kind": "Steam",
+      "is_orange": true,
+      "match_score": 641,
+      "match_goals": 2,
+      "match_assists": 1,
+      "match_saves": 2,
+      "match_shots": 3
+    },
+    {
+      "unique_id": "9828945577051385482",
+      "name": "slickrick123123",
+      "online_id": "76561198346962405",
+      "online_id_kind": "Steam",
+      "is_orange": false,
+      "match_score": 376,
+      "match_goals": 1,
+      "match_assists": 1,
+      "match_saves": 1,
+      "match_shots": 2
+    }
+  ],
+  "demos": []
+}

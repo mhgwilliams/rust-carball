@@ -1,0 +1,81 @@
+{
+  "game": {
+    "id": "24F52E494F63FF2D50B8EB8E9D66FAB9",
+    "replay_version": 8,
+    "num_frames": 9852,
+    "replay_name": "2023-02-22.22.26 Hobotz Casual Doubles Loss",
+    "map_name": "cs_day_p",
+    "date": "2023-02-22 22-26-10",
+    "match_type": "Online",
+    "team_0_score": 1,
+    "team_1_score": null,
+    "goals": [
+      {
+        "frame": 9765,
+        "player_name": "Shifty",
+        "is_orange": false
+      }
+    ]
+  },
+  "teams": [
+    {
+      "score": 0,
+      "is_orange": true
+    },
+    {
+      "score": 1,
+      "is_orange": false
+    }
+  ],
+  "players": [
+    {
+      "unique_id": "18143368599649100383",
+      "name": "Hobotz",
+      "online_id": "76561198010546857",
+      "online_id_kind": "Steam",
+      "is_orange": true,
+      "match_score": 291,
+      "match_goals": 0,
+      "match_assists": 0,
+      "match_saves": 1,
+      "match_shots": 1
+    },
+    {
+      "unique_id": "10881905856354640847",
+      "name": "CheeseBooger94",
+      "online_id": "8484863491045230465",
+      "online_id_kind": "PlayStation",
+      "is_orange": false,
+      "match_score": 208,
+      "match_goals": 0,
+      "match_assists": 0,
+      "match_saves": 0,
+      "match_shots": 3
+    },
+    {
+      "unique_id": "5895464384029917438",
+      "name": "Shifty",
+      "online_id": "76561198093823171",
+      "online_id_kind": "Steam",
+      "is_orange": false,
+      "match_score": 615,
+      "match_goals": 1,
+      "match_assists": 0,
+      "match_saves": 4,
+      "match_shots": 2
+    },
+    {
+      "unique_id": "9828945577051385482",
+      "name": "slickrick123123",
+      "online_id": "76561198346962405",
+      "online_id_kind": "Steam",
+      "is_orange": true,
+      "match_score": 221,
+      "match_goals": 0,
+      "match_assists": 0,
+      "match_saves": 1,
+      "match_shots": 4
+    }
+  ],
+  "demos": []
+}

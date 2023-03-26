@@ -1,0 +1,91 @@
+{
+  "game": {
+    "id": "6C6903FA42573388A1A4D7BE45FDA00C",
+    "replay_version": 8,
+    "num_frames": 9724,
+    "replay_name": "2023-02-22.22.13 Hobotz Casual Doubles Loss",
+    "map_name": "farm_p",
+    "date": "2023-02-22 22-13-22",
+    "match_type": "Online",
+    "team_0_score": 2,
+    "team_1_score": 1,
+    "goals": [
+      {
+        "frame": 2897,
+        "player_name": "CheeseBooger94",
+        "is_orange": false
+      },
+      {
+        "frame": 6228,
+        "player_name": "Hobotz",
+        "is_orange": true
+      },
+      {
+        "frame": 7305,
+        "player_name": "CheeseBooger94",
+        "is_orange": false
+      }
+    ]
+  },
+  "teams": [
+    {
+      "score": 1,
+      "is_orange": true
+    },
+    {
+      "score": 2,
+      "is_orange": false
+    }
+  ],
+  "players": [
+    {
+      "unique_id": "10881905856354640847",
+      "name": "CheeseBooger94",
+      "online_id": "8484863491045230465",
+      "online_id_kind": "PlayStation",
+      "is_orange": false,
+      "match_score": 472,
+      "match_goals": 2,
+      "match_assists": 0,
+      "match_saves": 2,
+      "match_shots": 3
+    },
+    {
+      "unique_id": "9828945577051385482",
+      "name": "slickrick123123",
+      "online_id": "76561198346962405",
+      "online_id_kind": "Steam",
+      "is_orange": true,
+      "match_score": 275,
+      "match_goals": 0,
+      "match_assists": 0,
+      "match_saves": 2,
+      "match_shots": 2
+    },
+    {
+      "unique_id": "14617890780420757397",
+      "name": "Lucky ADs",
+      "online_id": "b9b0761fd90d4aedb15380f292e3a870",
+      "online_id_kind": "Epic",
+      "is_orange": false,
+      "match_score": 415,
+      "match_goals": 0,
+      "match_assists": 1,
+      "match_saves": 3,
+      "match_shots": 3
+    },
+    {
+      "unique_id": "18143368599649100383",
+      "name": "Hobotz",
+      "online_id": "76561198010546857",
+      "online_id_kind": "Steam",
+      "is_orange": true,
+      "match_score": 452,
+      "match_goals": 1,
+      "match_assists": 0,
+      "match_saves": 1,
+      "match_shots": 6
+    }
+  ],
+  "demos": []
+}

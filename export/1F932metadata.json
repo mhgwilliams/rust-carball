@@ -1,0 +1,101 @@
+{
+  "game": {
+    "id": "1F93273E488A9B600A6BF5B20448AD0D",
+    "replay_version": 8,
+    "num_frames": 10154,
+    "replay_name": "2023-02-22.21.16 Hobotz Ranked Doubles Loss",
+    "map_name": "stadium_day_p",
+    "date": "2023-02-22 21-16-01",
+    "match_type": "Online",
+    "team_0_score": 3,
+    "team_1_score": 2,
+    "goals": [
+      {
+        "frame": 469,
+        "player_name": "MONKY5091(Tik Tok)",
+        "is_orange": false
+      },
+      {
+        "frame": 2309,
+        "player_name": "Hobotz",
+        "is_orange": true
+      },
+      {
+        "frame": 4763,
+        "player_name": "TTV.neonSTOPsign{LIVE}",
+        "is_orange": false
+      },
+      {
+        "frame": 6306,
+        "player_name": "TTV.neonSTOPsign{LIVE}",
+        "is_orange": false
+      },
+      {
+        "frame": 6628,
+        "player_name": "Hobotz",
+        "is_orange": true
+      }
+    ]
+  },
+  "teams": [
+    {
+      "score": 3,
+      "is_orange": false
+    },
+    {
+      "score": 2,
+      "is_orange": true
+    }
+  ],
+  "players": [
+    {
+      "unique_id": "18143368599649100383",
+      "name": "Hobotz",
+      "online_id": "76561198010546857",
+      "online_id_kind": "Steam",
+      "is_orange": true,
+      "match_score": 394,
+      "match_goals": 2,
+      "match_assists": 0,
+      "match_saves": 0,
+      "match_shots": 4
+    },
+    {
+      "unique_id": "2974792617689387297",
+      "name": "MONKY5091(Tik Tok)",
+      "online_id": "76561199020432318",
+      "online_id_kind": "Steam",
+      "is_orange": false,
+      "match_score": 536,
+      "match_goals": 1,
+      "match_assists": 2,
+      "match_saves": 2,
+      "match_shots": 2
+    },
+    {
+      "unique_id": "9211858144234149489",
+      "name": "TTV.neonSTOPsign{LIVE}",
+      "online_id": "76561199052081706",
+      "online_id_kind": "Steam",
+      "is_orange": false,
+      "match_score": 388,
+      "match_goals": 2,
+      "match_assists": 0,
+      "match_saves": 0,
+      "match_shots": 1
+    },
+    {
+      "unique_id": "9828945577051385482",
+      "name": "slickrick123123",
+      "online_id": "76561198346962405",
+      "online_id_kind": "Steam",
+      "is_orange": true,
+      "match_score": 240,
+      "match_goals": 0,
+      "match_assists": 1,
+      "match_saves": 0,
+      "match_shots": 0
+    }
+  ],
+  "demos": []
+}

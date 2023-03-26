@@ -39,10 +39,11 @@ impl ParseOutputWriter {
         &self,
         metadata_output: Option<&MetadataOutput>,
         data_frames_output: Option<&DataFramesOutput>,
+        file_prefix: &str, // Add the file_prefix parameter
     ) -> Result<(), ParseOutputWriterError> {
         if let Some(_metadata_output) = metadata_output {
             let mut metadata_output_path = self.output_dir.clone();
-            metadata_output_path.push("metadata.json");
+            metadata_output_path.push(format!("{}metadata.json", file_prefix));
             serde_json::to_writer_pretty(
                 &File::create(metadata_output_path)
                     .map_err(ParseOutputWriterError::CreateMetadataFileError)?,
@@ -56,7 +57,7 @@ impl ParseOutputWriter {
                 .ok_or(ParseOutputWriterError::DataFrameFormatNotSet)?;
 
             let mut ball_data_frame_path = self.output_dir.clone();
-            ball_data_frame_path.push("__ball");
+            ball_data_frame_path.push(format!("{}__ball", file_prefix)); // Add file_prefix to the file name
             write_df(
                 ball_data_frame_path,
                 &_data_frames_output.ball,
@@ -64,7 +65,7 @@ impl ParseOutputWriter {
             )?;
 
             let mut game_data_frame_path = self.output_dir.clone();
-            game_data_frame_path.push("__game");
+            game_data_frame_path.push(format!("{}__game", file_prefix)); // Add file_prefix to the file name
             write_df(
                 game_data_frame_path,
                 &_data_frames_output.game,
@@ -73,7 +74,7 @@ impl ParseOutputWriter {
 
             for (wrapped_unique_id, player_df) in _data_frames_output.players.iter() {
                 let mut player_data_frame_path = self.output_dir.clone();
-                player_data_frame_path.push(format!("player_{}", wrapped_unique_id.to_string()));
+                player_data_frame_path.push(format!("{}player_{}", file_prefix, wrapped_unique_id.to_string()));
                 write_df(player_data_frame_path, player_df, data_frame_output_format)?;
             }
         }

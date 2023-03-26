@@ -190,9 +190,9 @@ dependencies = [
 
 [[package]]
 name = "bitter"
-version = "0.5.1"
+version = "0.6.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4fd6d473ffc0bf45065aba389c4c5afdea6f6521d277b65585ecf3e75d322021"
+checksum = "803ffa563b84251ab8856d83d6b891e8d161e7df73806e10f78b35af05ba1a04"
 
 [[package]]
 name = "blake2b_simd"
@@ -207,9 +207,9 @@ dependencies = [
 
 [[package]]
 name = "boxcars"
-version = "0.9.3"
+version = "0.9.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6d479f38b69c99468d07cca43b066d03f52df5bd44d822909de64264d7b840ff"
+checksum = "4463ba79cef1a0e3a419403b9829cb4a823056aeb68b0f0e2431054f0590e8e2"
 dependencies = [
  "bitter",
  "encoding_rs",

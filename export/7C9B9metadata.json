@@ -1,0 +1,101 @@
+{
+  "game": {
+    "id": "7C9B98B94B47460DA952D3AE7DFD9D45",
+    "replay_version": 8,
+    "num_frames": 10136,
+    "replay_name": "2023-02-22.22.54 Hobotz Ranked Doubles Loss",
+    "map_name": "TrainStation_Dawn_P",
+    "date": "2023-02-22 22-54-34",
+    "match_type": "Online",
+    "team_0_score": 4,
+    "team_1_score": 1,
+    "goals": [
+      {
+        "frame": 2929,
+        "player_name": "Boy Fuggo",
+        "is_orange": false
+      },
+      {
+        "frame": 6524,
+        "player_name": "slickrick123123",
+        "is_orange": true
+      },
+      {
+        "frame": 7214,
+        "player_name": "MasterBayder",
+        "is_orange": false
+      },
+      {
+        "frame": 8617,
+        "player_name": "MasterBayder",
+        "is_orange": false
+      },
+      {
+        "frame": 9441,
+        "player_name": "Boy Fuggo",
+        "is_orange": false
+      }
+    ]
+  },
+  "teams": [
+    {
+      "score": 1,
+      "is_orange": true
+    },
+    {
+      "score": 4,
+      "is_orange": false
+    }
+  ],
+  "players": [
+    {
+      "unique_id": "8596979396883493856",
+      "name": "MasterBayder",
+      "online_id": "76561198977669277",
+      "online_id_kind": "Steam",
+      "is_orange": false,
+      "match_score": 700,
+      "match_goals": 2,
+      "match_assists": 1,
+      "match_saves": 3,
+      "match_shots": 8
+    },
+    {
+      "unique_id": "9828945577051385482",
+      "name": "slickrick123123",
+      "online_id": "76561198346962405",
+      "online_id_kind": "Steam",
+      "is_orange": true,
+      "match_score": 418,
+      "match_goals": 1,
+      "match_assists": 0,
+      "match_saves": 3,
+      "match_shots": 3
+    },
+    {
+      "unique_id": "18143368599649100383",
+      "name": "Hobotz",
+      "online_id": "76561198010546857",
+      "online_id_kind": "Steam",
+      "is_orange": true,
+      "match_score": 550,
+      "match_goals": 0,
+      "match_assists": 0,
+      "match_saves": 4,
+      "match_shots": 2
+    },
+    {
+      "unique_id": "14271386460438910521",
+      "name": "Boy Fuggo",
+      "online_id": "2535428733342273",
+      "online_id_kind": "Xbox",
+      "is_orange": false,
+      "match_score": 653,
+      "match_goals": 2,
+      "match_assists": 1,
+      "match_saves": 2,
+      "match_shots": 3
+    }
+  ],
+  "demos": []
+}
